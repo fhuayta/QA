@@ -1,4 +1,15 @@
-Material Audiovisual - Curso QA
+# Introducción a SQA
+
+Material audiovisual y de lectura para el inicio en el área de QA. Se tienen tres lecturas iniciales y cuatro videos de orientación y aplicación.
+
+Lectura:
+
+1) [Lectura Inicial](Inicio.md)
+1) [Introducción SQA](IntroduccionSQA.md)
+1) [Introducción a Herramientas Propuestas](IntroduccionSQAHerramientas.md)
+
+
+## Material Audiovisual - Curso QA
 Videos de consulta:
 
 Primera sesión:
