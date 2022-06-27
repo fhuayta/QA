@@ -1,6 +1,6 @@
 # k6 Pruebas de Performance
 
-## Instalacion 
+## Instalacion
 Seguir los pasos descritos en esta [guia](https://k6.io/docs/getting-started/installation/)
 
 ## Correr test locales

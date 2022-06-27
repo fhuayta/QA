@@ -10,11 +10,11 @@ Grado en el cual un componente, sistema o proceso satisface los requisitos espec
 Si nos fijamos ya se introduce el concepto de  **requisitos**  y lo importante que es cumplirlos. Es algo muy ligado a la calidad.
 
 > **Según ISO/ IEC 9126**
-> 
+>
 >  ISO 9126  es un estándar internacional para definir los procesos de evaluación de la Calidad de Software.
-> 
+>
 > Este modelo indica que la calidad de software se debe medir en base a 6 características:
-> 
+>
 > *Funcionalidad*: cumplimiento de los requisitos funcionales.
 > Fiabilidad: cumplimiento de las prestaciones requeridas.
 > Usabilidad: esfuerzo requerido por el usuario para utilizar el producto satisfactoriamente.

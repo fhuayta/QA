@@ -9,7 +9,6 @@ Es un entorno de código abierto, multiplataforma que ejecuta código JavaScript
 >  [Node.js](https://nodejs.org/es/) - Ingresar al  siguiente enlace para más información.
 
 
-
 ### NightWatch.js
 Es un marco de pruebas automatizado de un extremo a otro para aplicaciones web y sitios web. Esta escrito en node.js y utiliza la API W3W WebDriver, para interactuar con varios navegadores.
 

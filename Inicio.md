@@ -21,3 +21,4 @@ Ademas puedes revisar los siguientes videos con una explicacion sobre cada topic
 
 ## Introducción a la Gestión de calidad de software
 En esta sección podras revisar sobre el area de Calidad de software en general, los conceptos rescatados forman parte de los lineamientos planteados por ISTQB, ademas de contemplar un orden desde la experiencia de los procesos.
+
